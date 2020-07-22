@@ -3,7 +3,7 @@ namespace matsuo\TeamAPI;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
-use pocketmine\event\player\EntityDamageByEntityEvent;
+use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\event\player\PlayerChatEvent;
 use pocketmine\Player;
 
